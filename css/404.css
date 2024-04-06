@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  background-color: #a9a6adff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.not-found {
+	font-size: 70px;
+	font-family: "Bahnschrift";
+  	font-we&nbsp;ight: 400;
+  	color: #ffffffff;
+  	line-height: 30px;
+}
+
+.not-found-form {
+  padding: 110px 0;
+  background-size: cover;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  flex-direction: column;
+}
+
+.btn {
+  padding: 10px 40px;
+  font-family: "Bahnschrift";
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 18px;
+  background-color: #56535aff;
+  color: #ffffffff;
+  border: 0;
+  border-radius: 10px;
+  cursor: pointer;
+  text-decoration: none;
+}
